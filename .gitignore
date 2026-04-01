@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Local player build output folders
+Desktop/
+Web/
+
+# Build archives
+*.zip
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS / IDE cache
+.vs/
+
+.DS_Store
+Thumbs.db
